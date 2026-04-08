@@ -15,8 +15,7 @@ NumPy
 | 文件/文件夹 | 说明 |
 |------------|------|
 | `20257007-李振-车道线检测实验.docx` | 实验报告文档 |
-| `lane_detection_result/` | 检测结果存储目录 |
-| &nbsp;&nbsp;└── `result.jpg` | 检测结果图像 |
+| `lane_detection_result.jpg` | 检测结果图像 |
 | `test2.py` | 车道线检测主程序 |
 | `test4.jpg` | 测试输入图像 |
 ## 核心代码说明
