@@ -13,11 +13,11 @@ OpenCV 4.x
 NumPy
 ## 项目结构
 车道线检测实验/
-├── 20257007-李振-车道线检测实验.docx  # 实验报告文档
-├── lane_detection_result/             # 检测结果存储目录
-│   └── result.jpg                     # 检测结果图像
-├── test2.py                           # 车道线检测主程序
-└── test4.jpg                          # 测试输入图像
+├── 20257007-李振-车道线检测实验.docx # 实验报告文档
+├── lane_detection_result/ # 检测结果存储目录
+│ └── result.jpg # 检测结果图像
+├── test2.py # 车道线检测主程序
+└── test4.jpg # 测试输入图像
 ## 核心代码说明
 test2.py 文件是本项目的核心代码，实现了以下功能:
 . 图像预处理:
