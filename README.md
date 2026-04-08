@@ -34,5 +34,10 @@ test2.py 文件是本项目的核心代码，实现了以下功能:
 - 结果可视化:
 在原图上绘制检测到的车道线
 保存结果为lane_detection_result.jpg
+## 实验结果
+- 黄色线条: 检测到的左右两侧车道线
+- 绿色区域: 定义的ROI区域
+![lane_detection_result](https://github.com/user-attachments/assets/de55ef6a-3747-455b-a78b-d9c43196d9c9)
+
 
 
